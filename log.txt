@@ -1,0 +1,7 @@
+Movie 019 - ignoring ITD, impulse now last long
+- auditory modules savepoints
+	20240530_010700  audio_loss 
+	20240530_182239  audio_loss 593.27
+- visual modules savepoints
+	20240529_222818  img_loss 1.629
+	20240530_154700  img_loss 1.6269347071647644
